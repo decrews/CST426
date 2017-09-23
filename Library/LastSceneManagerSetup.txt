@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Battle 2 - EventQueue.unity
+  isLoaded: 1
+  isActive: 1
